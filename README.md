@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @heinz-maluti
+- 👀 Coding, Robotics, archery, airsoft
+- 🌱 React & redux mainly while other frontend tech is also on my radar.
+- 💞️ Contact me when you are having issues with C#, EF and DotNetCore mainly.
+- 📫 heinrichl@maluti-x.com
